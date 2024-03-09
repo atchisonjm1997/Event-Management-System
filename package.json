@@ -1,0 +1,26 @@
+{
+"name": "event-management-system-342",
+"version": "1.0.0",
+"description": "a comprehensive web application designed to streamline the planning and organization of events",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/atchisonjm1997/Event-Management-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "atchisonjm1997",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
